@@ -40,7 +40,7 @@ def clean_data():
     
     print(" *************** Cleaning Extracted Data  ***************")
 
-    #nltk.download('stopwords')
+    nltk.download('stopwords')
     stop_words = stopwords.words('english')
     #pdb.set_trace()
     with open(config.PROCESSED_DATA +'output.txt', 'r') as f:
