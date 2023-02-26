@@ -19,3 +19,4 @@ EXTRACT_DATA = False
 CLEAN_DATA = False
 TRAIN = False
 EVAL = True
+
