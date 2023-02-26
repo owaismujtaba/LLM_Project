@@ -15,8 +15,8 @@ BATCH_SIZE = 8
 STEPS = 2
 LOGGING_STEPS = 1
 
-EXTRACT_DATA = False
-CLEAN_DATA = False
-TRAIN = False
-EVAL = True
+EXTRACT_DATA = True
+CLEAN_DATA = True
+TRAIN = True
+EVAL = False
 
