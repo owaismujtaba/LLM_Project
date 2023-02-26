@@ -1,5 +1,5 @@
 import os
-PATH = os.getcwd()+'/'
+PATH = os.getcwd()+'/LLM_Project'
 
 MODEL = 'path'
 
